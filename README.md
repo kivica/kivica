@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Cay kivi
 
-<!--
-**kivica/kivica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Node Operator | Web3 Dev  
+💻 Running: Allora Forge Node, Backpack-Bitget Hedge Bot  
+🔑 Wallet: `allo118yzxffkenms48tq6amgmj9dwuvmkypv832xcp`
 
-Here are some ideas to get you started:
+## 🧰 Repositories
+- [cay](https://github.com/kivica/cay)
+- [backpack-bot](https://github.com/kivica/backpack-bot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Contact
+- X: [@kivicls](https://x.com/kivicls)
+- Telegram: [@kivicla](https://t.me/kivicla)
